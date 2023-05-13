@@ -1,0 +1,11 @@
+C:\Users\kheli\source\repos\ClientProject\ClientProject\bin\Debug\ClientProject.exe.config
+C:\Users\kheli\source\repos\ClientProject\ClientProject\bin\Debug\ClientProject.exe
+C:\Users\kheli\source\repos\ClientProject\ClientProject\bin\Debug\ClientProject.pdb
+C:\Users\kheli\source\repos\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.AssemblyReference.cache
+C:\Users\kheli\source\repos\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.SuggestedBindingRedirects.cache
+C:\Users\kheli\source\repos\ClientProject\ClientProject\obj\Debug\ClientProject.Form1.resources
+C:\Users\kheli\source\repos\ClientProject\ClientProject\obj\Debug\ClientProject.Properties.Resources.resources
+C:\Users\kheli\source\repos\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.GenerateResource.cache
+C:\Users\kheli\source\repos\ClientProject\ClientProject\obj\Debug\ClientProject.csproj.CoreCompileInputs.cache
+C:\Users\kheli\source\repos\ClientProject\ClientProject\obj\Debug\ClientProject.exe
+C:\Users\kheli\source\repos\ClientProject\ClientProject\obj\Debug\ClientProject.pdb
